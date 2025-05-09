@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "HWYGCOND";
+  font-weight: 200;
+  font-style: normal;
+  src: url("/fonts/HWYGCOND.TTF") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HWYGOTH";
+  font-weight: 400;
+  font-style: normal;
+  src: url("/fonts/HWYGOTH.TTF") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HWYGEXPD";
+  font-weight: 400;
+  font-style: normal;
+  src: url("/fonts/HWYGEXPD.TTF") format("truetype");
+  font-display: swap;
+}

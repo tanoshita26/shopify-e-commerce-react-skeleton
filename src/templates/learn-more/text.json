@@ -1,0 +1,42 @@
+{
+  "frameDetailsAlt": "Hinges are factory milled and feature silicon coated screws. All frames are handmade in small batches. Every pair is cut by hand. Never Mold injected. Wire core in each temple for easy customized fit. Lenses are made of shatterproof European CR-39 and provide 100% UV protection.",
+  "fitHeading": "How do I know they'll fit?",
+  "fitInfo": "The best way to know if frames will fit or look good is to compare the sizing to a current pair you love. We recommend staying within 2-3 mm for lens and temple measurements and within 1-2 mm for bridge measurements.",
+  "fitDiagramAlt": "Lens Width: the measurement (in mm) of the widest point of one lens. Bridge Width: the measurement (in mm) of the distance between lenses. Temple Length: the measurement of the length of one arm from the front of the frame to the tip. Measurements are found on the inside of one of the arms in a lens-bridge-temple pattern.",
+  "lensCustomizations": [
+    {
+      "title": "Prescription Types",
+      "items": [
+        "Single Vision",
+        "Progressive",
+        "Bifocal",
+        "Non-Prescription",
+        "Reader's",
+        "& More"
+      ]
+    },
+    {
+      "title": "Lens Options",
+      "items": [
+        "Clear",
+        "Polarized",
+        "Blue Light Blocking",
+        "Gradient Tint",
+        "Sun Tint",
+        "Vantage",
+        "Transitions",
+        "& More"
+      ]
+    },
+    {
+      "title": "Lens Coating",
+      "items": ["No Coating", "Anti-Reflective"]
+    },
+    {
+      "title": "Lens Material",
+      "items": ["CR-39", "Polycarbonate", "Hi-Index"]
+    }
+  ],
+  "lensesInfoAlt": "More about our stock cr-39 lenses: CR-39 lenses are used on every pair of acetate frames. Best plastic for clarity. 100% UVA & UVB protection. Shatterproof plastic. Custom and prescription lenses are available in many materials including CR-39, Polycarbonate, and Hi-Index.",
+  "whatYouGet": "Each pair of Tres Noir glasses comes with a microfiber pouch and cleaning cloth. We also offer free shipping in the USA."
+}
